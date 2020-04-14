@@ -1,0 +1,10 @@
+.item-add-form {
+  display: flex;
+  margin: 1rem 0;
+
+  .item-input {
+    flex-grow: 1;
+    width: auto;
+    margin-right: 3px;
+  }
+}
